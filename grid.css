@@ -15,7 +15,7 @@ main{
     "c c c d d d"
     "c c c e e e"    ;
     gap: 10px;
-    width: 50%;
+    width: 30%;
     margin: auto;
 }
 main div{
@@ -23,7 +23,7 @@ main div{
     text-align: center;
 }
 .item-a { background-color: rgb(231, 93, 13);
-    grid-area: a; padding: 80px;
+    grid-area: a; padding: 50px;
 }
 .item-b {background-color: rgb(247, 190, 6);
 grid-area: b;
