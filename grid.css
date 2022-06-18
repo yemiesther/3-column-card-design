@@ -26,7 +26,7 @@ main div{
     grid-area: a; padding: 50px;
 }
 .item-b {background-color: rgb(247, 190, 6);
-grid-area: b;
+grid-area: b; padding: 60px;
 }
 .item-c {background-color: rgb(18, 146, 6);
     grid-area: c;
